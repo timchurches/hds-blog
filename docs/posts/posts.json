@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-06-09-i-love-blogging/",
+    "title": "I love blogging",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Tim Churches",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-06-09",
+    "categories": [],
+    "contents": "\nI love it!\n\n\nplot(iris)\n\n\n\n\n\n\n\n",
+    "preview": "posts/2022-06-09-i-love-blogging/i-love-blogging_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-06-09T15:54:44+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My HDS Blog",
     "description": "Welcome to our new blog, My HDS Blog. We hope you enjoy \nreading what we have to say!",
